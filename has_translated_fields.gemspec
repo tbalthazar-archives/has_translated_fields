@@ -7,9 +7,9 @@ require "has_translated_fields/version"
 Gem::Specification.new do |s|
   s.name        = "has_translated_fields"
   s.version     = HasTranslatedFields::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
+  s.authors     = ["Thomas Balthazar"]
+  s.email       = ["thomas@balthazar.info"]
+  s.homepage    = "https://github.com/tbalthazar/HasTranslatedFields"
   s.summary     = "TODO: Summary of HasTranslatedFields."
   s.description = "TODO: Description of HasTranslatedFields."
   s.license     = "MIT"
