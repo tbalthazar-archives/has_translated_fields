@@ -1,3 +1,0 @@
-= has_translated_fields
-
-This project rocks and uses MIT-LICENSE.
