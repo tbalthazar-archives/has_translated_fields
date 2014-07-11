@@ -18,7 +18,7 @@ and in your views, you'll be able to do :
 <%= @content.body %>
 ```
 
-Depending on the current `I18n.locale` value, the corresponding _fr|_en methods will be called.
+Depending on the current `I18n.locale` value, the corresponding `_fr|_en` methods will be called.
 
 ## License
 

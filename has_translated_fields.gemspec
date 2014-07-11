@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Thomas Balthazar"]
   s.email       = ["thomas@balthazar.info"]
   s.homepage    = "https://github.com/tbalthazar/HasTranslatedFields"
-  s.summary     = "A gem allowing a active_record model to have translated fields"
+  s.summary     = "A gem allowing an active_record model to have translated fields"
   s.description = "This gem gives an active_record model a 'field' method that will be replace by 'field_en' or 'field_fr' depending on the I18n.locale"
   s.license     = "MIT"
 
